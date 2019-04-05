@@ -9,7 +9,7 @@ DATABASES = {
     }
 }
 
-DATABASE_ROUTERS = ['archer_home.router.
+DATABASE_ROUTERS = ['archer_home.router.DjangoRouter', 'archer_home.router.AppRouter']
 
 TIME_ZONE = 'Europe/Berlin'
 
