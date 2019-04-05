@@ -9,6 +9,8 @@ DATABASES = {
     }
 }
 
+DATABASE_ROUTERS = ['archer_home.router.
+
 TIME_ZONE = 'Europe/Berlin'
 
 LANGUAGE_CODE = 'de'
